@@ -20,13 +20,11 @@ Computer Science student building AI and machine learning systems.
 
 ## GitHub Stats
 
-![Samridhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=samridhiwadhwa8&show_icons=true&theme=radical)
-
----
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=samridhiwadhwa8&show_icons=true&theme=tokyonight)
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samridhiwadhwa8&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samridhiwadhwa8&layout=compact&theme=tokyonight)
 
 ---
 
