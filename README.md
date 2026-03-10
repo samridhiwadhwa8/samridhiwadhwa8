@@ -1,21 +1,50 @@
 # Hi 👋 I'm Samridhi Wadhwa
 
-Computer Science student building AI and machine learning systems.
+Computer Science student interested in building AI, machine learning and data-driven systems.
 
-🔭 Currently working on AI and NLP projects  
-🌱 Learning Machine Learning, Data Systems and DSA  
-👩‍💻 Exploring LLM based tools and intelligent applications  
-📫 Reach me: samridhiwadhwa49@gmail.com  
+I enjoy experimenting with datasets, exploring NLP workflows and building small tools that combine software engineering with machine learning concepts.
+
+Currently learning more about machine learning fundamentals and strengthening core computer science concepts through data structures and algorithms.
 
 ---
 
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+
+</p>
+
+---
+
+
+## ML / Data Tools
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
+
+</p>
 
 ---
 
@@ -23,48 +52,32 @@ Computer Science student building AI and machine learning systems.
 
 ## Areas of Interest
 
-<p align="left">
-
-<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Natural%20Language%20Processing-1f6feb?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Data%20Systems-6f42c1?style=for-the-badge&logo=databricks&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Model%20Evaluation-0a7f5a?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Large%20Language%20Models-ff6f00?style=for-the-badge&logo=openai&logoColor=white"/>
-
-</p>
+Machine Learning  
+Natural Language Processing  
+Dataset Analysis  
+Model Evaluation  
+Large Language Model Applications  
 
 ---
 
 ## Currently Learning
 
-<p align="left">
+Data Structures and Algorithms  (Java)
+Machine Learning & AI Fundamentals  
 
-<img src="https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning%20Fundamentals-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-</p>
-
+---
 
 
 ## Connect with me
 
 <p align="left">
-<a href="www.linkedin.com/in/samridhi-wadhwa-b229a2318" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" />
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
 </a>
 
-<a href="https://github.com/samridhiwadhwa8" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="40" />
+<a href="https://github.com/samridhiwadhwa8">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32"/>
 </a>
+
 </p>
-
-
-
-## Contribution Snake
-
-![Snake animation](https://github.com/samridhiwadhwa8/samridhiwadhwa8/blob/output/github-contribution-grid-snake.svg)
