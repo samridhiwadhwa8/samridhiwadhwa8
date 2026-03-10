@@ -20,21 +20,23 @@ Computer Science student building AI and machine learning systems.
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=samridhiwadhwa8&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samridhiwadhwa8&show_icons=true&theme=tokyonight)
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samridhiwadhwa8&layout=compact&theme=tokyonight)
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samridhiwadhwa8&layout=compact&theme=tokyonight)
 
 ## Connect with me
 
-[LinkedIn](www.linkedin.com/in/samridhi-wadhwa-b229a2318)
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" />
+</a>
 
-[GitHub](https://github.com/samridhiwadhwa8)
-
----
+<a href="https://github.com/samridhiwadhwa8" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="40" />
+</a>
+</p>
 
 ## Contribution Snake
 
