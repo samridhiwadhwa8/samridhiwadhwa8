@@ -1,6 +1,6 @@
 # Hi 👋 I'm Samridhi Wadhwa
 
-Computer Science student interested in building AI, machine learning and data-driven systems.
+Computer Science student exploring AI, machine learning and data-driven systems.
 
 I enjoy experimenting with datasets, exploring NLP workflows and building small tools that combine software engineering with machine learning concepts.
 
@@ -62,8 +62,10 @@ Large Language Model Applications
 
 ## Currently Learning
 
-Data Structures and Algorithms  (Java)
-Machine Learning & AI Fundamentals  
+• Data Structures and Algorithms (Java)  
+• Machine Learning fundamentals  
+• NLP and dataset analysis
+
 
 ---
 
