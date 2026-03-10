@@ -74,7 +74,7 @@ Large Language Model Applications
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/samridhi-wadhwa-b229a2318/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
 </a>
 
