@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋 I'm Samridhi Wadhwa
 
-<!--
-**samridhiwadhwa8/samridhiwadhwa8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student building AI and machine learning systems.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on AI and NLP projects
+- 🌱 Learning Machine Learning, Data Systems and DSA
+- 👩‍💻 Exploring LLM based tools and intelligent applications
+- 📫 Reach me: samridhiwadhwa49@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### GitHub Stats
+
+![Samridhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=samridhiwadhwa8&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samridhiwadhwa8&layout=compact)
+
+### Connect with me
+
+[LinkedIn](www.linkedin.com/in/samridhi-wadhwa-b229a2318)
+[GitHub](https://github.com/samridhiwadhwa8)
+
+![Snake animation](https://github.com/samridhiwadhwa8/samridhiwadhwa8/blob/output/github-contribution-grid-snake.svg)
