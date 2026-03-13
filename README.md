@@ -4,7 +4,7 @@ Computer Science student exploring AI, machine learning and data-driven systems.
 
 I enjoy experimenting with datasets, exploring NLP workflows and building small tools that combine software engineering with machine learning concepts.
 
-Currently learning more about machine learning fundamentals and strengthening core computer science concepts through data structures and algorithms.
+Currently learning more about machine learning fundamentals and strengthening core computer science concepts through data structures and algorithms (Java).
 
 ---
 
